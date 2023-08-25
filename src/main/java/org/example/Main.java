@@ -1,6 +1,6 @@
 //TODO: Faça um CodeReview (utilizando comentários indicando melhorias)
 // para o código do Slide “Regra de Escoteiro” da Aula 1.
-
+// packages: palyer & playerRefactored: https://www.javaguides.net/2018/02/interface-segregation-principle.html
 package org.example;
 
 public class Main {
